@@ -1,5 +1,5 @@
-Activity 4 on Research Data Management Principles
-================
+
+# Activity 4 on Research Data Management Principles
 
 <div align="center">
 
