@@ -1,5 +1,5 @@
 
-# Activity 4 on Research Data Management Principles
+Activity 4 on Research Data Management Principles
 
 <div align="center">
 
@@ -7,7 +7,7 @@
 
 <div align="center">
 
-                    GEOG 712 Reproducible Research
+                    GEOG 712 Reproducible Research workflow
 
 <div align="center">
 
