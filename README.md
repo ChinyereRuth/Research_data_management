@@ -1,5 +1,10 @@
+---
+output:
+  pdf_document: default
+  html_document: default
+---
 
-Activity 4 on Research Data Management Principles
+Activity 4 on Research Data Management
 
 <div align="center">
 
